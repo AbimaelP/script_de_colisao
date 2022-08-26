@@ -18,4 +18,6 @@ No arquivo script.js foi inserida a logica da aplicação que irá atuar nas dua
 O codigo criado calcula os valores numéricos da largura, altura, posição horizontal e posição vertical de cada um dos elementos individualmente
 E quando ocorre uma colisão entre os dois mudando a posição horinzontal e/ou vertical dos elementos no style.css é imprimido no console uma mensagem "colisão"
  
+# Tecnologias utilizadas
+Java Script, HTML, CSS
  
