@@ -4,7 +4,7 @@ Esse projeto foi desenvolvido apenas com finalidades de estudo, e para praticar 
 # Como funciona
 --- HTML
 
-No index.html foi inserida duas tags do tipo <div>
+No index.html foi inserida duas tags do tipo DIV
 Uma identificada com um id="player", e a outra com um id="ground"
 
 --- CSS
